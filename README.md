@@ -7,6 +7,9 @@
 - 每个处理阶段的结构化 `JSON`、音频和图片中间产物
 
 项目同时提供命令行入口和 FastAPI Web 界面，支持多套视觉主题、MiniMax 音色选择，以及 LLM/TTS 失败时的自动降级。
+<img width="1912" height="914" alt="image" src="https://github.com/user-attachments/assets/3122f7d1-52e4-425f-b862-0b0fc982a575" />
+<img width="1912" height="914" alt="image" src="https://github.com/user-attachments/assets/e40a162f-0ac1-4163-a0f3-f6efe5bc53d0" />
+
 
 ## 快速开始
 
